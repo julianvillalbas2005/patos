@@ -5,11 +5,11 @@ Age = 16
 Color = Azul
 Like 1 = Hamburguesa 
 Like 2 = Bailar
-Like 3 = Salir a caminar 
+Like 3 = Agua 
 Tio rico = true
 Red = false
 Blue = true
-if name = Verde false
-if likes = dormir igmore
-if likes = cantar ignore
-if likes = pizza turn off
+if color Verde -> false
+if likes Refresco -> ignore
+if likes Cantar -> ignore
+if likes Pizza -> turn off
